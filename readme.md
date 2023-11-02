@@ -4,6 +4,9 @@
 
 ## Credits
 
+## License
+Licensed under the MIT License. See (license file)[license.md] for more details.
+
 ## Notes
 Permanent aliases implemented in PowerShell using the following commands:
 ```
