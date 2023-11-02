@@ -7,7 +7,7 @@ Justin Meyer [justindmeyer@lewisu.edu](mailto:justindmeyer@lewisu.edu)
 [This StackOverflow thread](https://stackoverflow.com/questions/29716361/how-to-use-powershell-alias-cd-a-spec-directory) for help creating PowerShell aliases.
 
 ## License
-Licensed under the MIT License. See (license file)[license.md] for more details.
+Licensed under the MIT License. See [license file](license.md) for more details.
 
 ## Notes
 Permanent aliases implemented in PowerShell using the following commands:
